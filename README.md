@@ -22,7 +22,7 @@ Upon sucessful completion of the 3D printing, we had our chess piece protype mad
 
 <!--  <p align="center">
 </p> 
----
+-->
 
 ![Chess Piece](ChessP.jpg)
 
