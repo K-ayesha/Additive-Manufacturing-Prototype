@@ -3,3 +3,4 @@ Our team manufactured a hat themed chess set for use in the New York City munici
 
 ![Chess Piece](ChessPiece.JPEG)
 
+
