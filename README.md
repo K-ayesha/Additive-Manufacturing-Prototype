@@ -18,7 +18,11 @@ The next step was to verify the deisgn for 3D printing:
 ![Verification](Printing_V.JPG)
 
 Upon sucessful completion of the 3D printing, we had our chess piece protype made using plastic. A picture of our printed chess piece can be seen below: 
+
 ![Chess Piece](ChessP.jpg)
 
+Following is also a poster that we presented to explain what other different traditional manufacturing processes could be used for our protype and the advantages of using STL printing above all: 
 
 ![Poster Presentation](Poster_Presentation.jpg)
+
+
