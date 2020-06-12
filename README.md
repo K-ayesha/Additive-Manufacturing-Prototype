@@ -7,15 +7,10 @@ we have completed three gate steps towards the final product. In the first, we s
 
 After brainstorming six different designs for our chess pieces, we had to narrow it down to one piece. In order to make this decision, we created a decision matrix as below to look at all six of the designs from engineering desisgn perspective:
 
-![](Decesion_Matrix.JPG)
+![Decesion](Decesion_Matrix.JPG)
 
 we used a color ranking system in our decision matrix. Green means that the design fits very well in a certain category and it cannot be better. Yellow signals that the design is just average and can be worked upon, but is not that bad. Red tells us that the design is very bad for a certain category and would need significant work to be better. By using this ranking system we were able see which design was best fit for next step of manufacturing. The complexity of this design is simple as it is only a wizards hat on a podium. Following is the CAD model and engineering drawing of our deisgn for chess piece 'Queen': 
 
-![](DEcesion_Matrix.JPG)
-
-
-
-![](DEcesion_Matrix.JPG)
 
 Our chosen method is STL printing, an additive manufacturing method useful for rapid prototyping.
 
