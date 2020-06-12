@@ -2,4 +2,4 @@
 Our team manufactured a hat themed chess set for use in the New York City municipal building using STL printing.ing
 
 
-![Chess Piece](/figures/ChessPiece.JPEG)
+![Chess_Piece](/ChessPiece.JPEG)
